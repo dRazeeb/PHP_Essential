@@ -4,7 +4,11 @@
 	<title>PHP Practice</title>
 </head>
 <body>
-<?php  echo "Hello<br>" ."World"?><br>
-<?php  echo 2+3?>
+<?php $myVariable ="World";
+echo "<hr>";
+echo $myVariable;
+
+ ?>
+
 </body>
 </html>
