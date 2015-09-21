@@ -4,9 +4,12 @@
 	<title>PHP Practice</title>
 </head>
 <body>
-<?php $myVariable ="World";
-echo "<hr>";
-echo $myVariable;
+<?php 
+$a = "Hello";
+$b = "Wprld";
+$c = $a." ". $b ." Again";
+echo $c;
+
 
  ?>
 
